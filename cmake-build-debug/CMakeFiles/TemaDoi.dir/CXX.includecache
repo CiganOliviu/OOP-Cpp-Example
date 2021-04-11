@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Acer/Acer.h
+../Laptop/Laptop.h
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Laptop/Laptop.h
+
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Asus/Asus.h
+../Laptop/Laptop.h
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Laptop/Laptop.h
+
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Computer.h
+
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Laptop/Laptop.h
+iostream
+-
+../Computer.h
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Computer.h
+../Processor.h
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Processor.h
+
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Processor.h
+
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Vivobook/Vivobook.h
+iostream
+-
+string
+-
+
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/main.cpp
+iostream
+-
+Asus/Asus.h
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Asus/Asus.h
+Acer/Acer.h
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Acer/Acer.h
+Vivobook/Vivobook.h
+D:/facultate/facultate/IA/CiganOliviuDavid-Grupa2/Vivobook/Vivobook.h
+
